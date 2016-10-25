@@ -1,6 +1,3 @@
-Version 4.0 brings a new feature
-
-some feature
-
-i dont even know
+Version 4.5 brings some new features! PogChamp
+You can now sort the hall of fame properly
 
