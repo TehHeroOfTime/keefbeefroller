@@ -1,3 +1,3 @@
-Version 4.6 brings NO new features! 4Head
-
-2
+Version 3.5
+Auto-update implemented
+fixed sorting hall of shame listview
